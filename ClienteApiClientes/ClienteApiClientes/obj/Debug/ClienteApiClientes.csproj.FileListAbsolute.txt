@@ -1,0 +1,293 @@
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\ApplicationInsights.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.pdb
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.rsp
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.rsp
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.AppContext.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Console.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Compression.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Claims.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.ValueTuple.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.rsp
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\WebGrease.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.pdb
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csprojResolveAssemblyReference.cache
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csproj.CoreCompileInputs.cache
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csproj.CopyComplete
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.pdb
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Cors.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ApplicationInsights.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.pdb
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.rsp
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.rsp
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.AppContext.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Collections.Immutable.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Console.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.Process.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Compression.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Pipes.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Reflection.Metadata.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.AccessControl.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Claims.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Threading.Thread.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.ValueTuple.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.rsp
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe.config
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.Web.Infrastructure.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Cors.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\WebGrease.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.pdb
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.xml
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csprojResolveAssemblyReference.cache
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csproj.CoreCompileInputs.cache
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.dll
+D:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.pdb
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ApplicationInsights.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\ClienteApiClientes.pdb
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.exe.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csc.rsp
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.exe.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\csi.rsp
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.AppContext.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Collections.Immutable.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Console.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.Process.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Compression.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.IO.Pipes.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Reflection.Metadata.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.AccessControl.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Claims.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Security.Principal.Windows.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Threading.Thread.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.ValueTuple.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XmlDocument.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.exe.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\vbc.rsp
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\roslyn\VBCSCompiler.exe.config
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Agent.Intercept.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.Web.Infrastructure.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Cors.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\WebGrease.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Newtonsoft.Json.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Net.Http.Formatting.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Http.Cors.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Helpers.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Mvc.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Optimization.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.Razor.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Deployment.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\System.Web.WebPages.Razor.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Antlr3.Runtime.pdb
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.ApplicationInsights.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.DependencyCollector.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.WindowsServer.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\bin\Microsoft.AI.Web.xml
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csprojResolveAssemblyReference.cache
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csproj.CoreCompileInputs.cache
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.csproj.CopyComplete
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.dll
+G:\MCSD\POST_AZURE\ClienteApiClientes\ClienteApiClientes\obj\Debug\ClienteApiClientes.pdb
